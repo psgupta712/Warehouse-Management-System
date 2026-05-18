@@ -93,7 +93,7 @@ npm start         # starts on http://localhost:3000
 | Role | Email | Password |
 |------|-------|----------|
 | Admin | admin@wareflow.in | password123 |
-| Staff | staff@wareflow.in | password123 |
+| Staff | vikram@wareflow.in | password123 |
 
 ---
 
